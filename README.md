@@ -21,9 +21,11 @@
   </ol>
   <h2 align="center" >Обкладинки книг</h2>
   <hr>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx38eEbgd8XBfOQgUf6PpOovDN0XzkC3MSeun0Y9xQXA&s=10">
-  <img scr="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8jww24e1i7VlgvxhxM3Kh24LaQP1U_xL8LZpPK-Xw0w&s=10">
-  <img>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx38eEbgd8XBfOQgUf6PpOovDN0XzkC3MSeun0Y9xQXA&s=10" alt="Ромео і Джульєтта" width="150">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8jww24e1i7VlgvxhxM3Kh24LaQP1U_xL8LZpPK-Xw0w&s=10" alt="Тореадори з Васюківки" width="150">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjgcIUAqlnejIm-t3_FixVFTgb508u04BfGf-SFa4Ng&s=10" alt="Чарлі і шоколадна фабрика" width="150">
   <hr>
   <h2 align="center">Інформація про книги </h2>
   <hr>
