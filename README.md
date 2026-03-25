@@ -21,7 +21,7 @@
   </ol>
   <h2 align="center" >Обкладинки книг</h2>
   <hr>
-  <img alt="">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx38eEbgd8XBfOQgUf6PpOovDN0XzkC3MSeun0Y9xQXA&s=10">
   <img>
   <img>
   <hr>
